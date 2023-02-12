@@ -1,0 +1,40 @@
+.body-skin-care-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .page-title {
+    font-size: 36px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  
+  .page-description {
+    font-size: 18px;
+    margin-bottom: 50px;
+  }
+  
+  .product-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .product {
+    width: 30%;
+    text-align: left;
+    margin-bottom: 50px;
+  }
+  
+  .product-title {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .product-description {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  

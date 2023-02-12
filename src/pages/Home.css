@@ -1,0 +1,54 @@
+.home {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+  }
+
+  .specialist-name {
+    font-size: 24px;
+    color: #333;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .specialist-name:hover {
+    color: #e76509;
+    cursor: pointer;
+  }
+
+  .specialists li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  
+  .specialist-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 30px;
+  }
+  
+  .team-leader-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto 30px;
+  }
+
+  .header {
+    color: #e76509;
+    font-size: 48px;
+    font-family: 'Cursive', sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  .important{
+    color: #e76509;
+    font-size: 28px;
+    font-family: 'Cursive', sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+  }

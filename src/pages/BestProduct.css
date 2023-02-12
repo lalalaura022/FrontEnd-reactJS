@@ -1,0 +1,42 @@
+.productContainer {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    margin: 20px auto;
+  }
+  
+  .productHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .productName {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .ingredientContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .ingredient {
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .ingredientName {
+    font-weight: bold;
+  }
+  
+  .ingredientAmount {
+    font-style: italic;
+  }
+  
